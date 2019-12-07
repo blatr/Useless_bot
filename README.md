@@ -1,3 +1,2 @@
 # Useless_bot
-Telegram bot
-Do almost nothing.
+Telegram bot which do almost nothing.
